@@ -29,3 +29,20 @@ Rspec- a testing framework
 First step -- Feature will fail
 Build the features one by one till the test passes
 
+
+
+Process for creating Articles feature test and feature
+-Create a branch
+- write feature test
+- build features to make test pass one by one
+- once feature test passes with no errors- merge branch with master branchfga
+- 
+1., visit root page
+click on new article
+fill in title
+fil ibody
+create article
+EXPECTATIONS
+
+message Article has been creted
+-page to go to articles path
