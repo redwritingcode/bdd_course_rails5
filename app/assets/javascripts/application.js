@@ -15,7 +15,7 @@
 
 //= require bootstrap-sprockets
 
-Navigate to app/views/layouts/application.html.erb and add a navigation bar in the body tag:
+
 <header role="banner">
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 <div class="container-fluid"> 
